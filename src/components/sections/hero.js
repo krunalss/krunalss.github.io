@@ -61,13 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Krunal Shambharkar.</h2>;
-  const three = <h3 className="big-heading">I build things for the AI</h3>;
+  const three = <h3 className="big-heading">I build bridges between machine learning models and real-world solutions</h3>;
   const four = (
     <>
       <p>
-        I’m a MLOPS engineer specializing in building exceptional end to end pipline
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        I’m a MLOps engineer specializing in building exceptional end-to-end pipelines that transform raw data into insightful forecasts, all while ensuring models are robust, scalable, and seamlessly integrated with cloud AI platforms.
+         // Currently, I’m focused on building accessible, human-centered products
+        // at{' '}
         <a href="https://krunalabs.com/" target="_blank" rel="noreferrer">
           Krunal Labs
         </a>
