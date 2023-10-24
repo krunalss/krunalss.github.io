@@ -140,10 +140,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://digitate.com/">software venture</a>,
-              and{' '}
-              <a href="https://www.asml.com/en">supplier of photolithography equipment used in the semiconductor manufacturing industry</a>.
-                Currently, I'm dedicating my time to deepening my expertise and exploring the evolving landscape of MLOps.
+              <a href="https://digitate.com/">an AI software venture</a>,
+              and for {' '}
+              <a href="https://www.asml.com/en">supplier of photolithography equipment used in the semiconductor manufacturing industry</a>
+              Currently, I'm dedicating my time to deepening my expertise and exploring the evolving landscape of MLOps.
             </p>
 
             <p>
