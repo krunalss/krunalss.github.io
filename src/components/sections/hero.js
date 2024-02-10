@@ -33,6 +33,7 @@ const StyledHeroSection = styled.section`
     margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
+    white-space: nowrap;
   }
 
   p {
@@ -61,7 +62,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Krunal Shambharkar.</h2>;
-  const three = <h3 className="big-heading"> I build bridges between <br> AI-Models and real-world solutions</h3>;
+  const three = <h3 className="big-heading"> I build bridges between AI-Models and real-world solutions </h3>;
   const four = (
     <>
       <p>
