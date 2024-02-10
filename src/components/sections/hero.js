@@ -34,6 +34,7 @@ const StyledHeroSection = styled.section`
     color: var(--slate);
     line-height: 0.9;
     white-space: nowrap;
+    text-overflow: ellipsis;
   }
 
   p {
