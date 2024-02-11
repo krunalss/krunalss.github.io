@@ -33,9 +33,6 @@ const StyledHeroSection = styled.section`
     margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
-    text-overflow: ellipsis;
-    overflow: hidden;
-     margin-right: 100px;
   }
 
   p {
